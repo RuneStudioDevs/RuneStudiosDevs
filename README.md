@@ -47,7 +47,10 @@ Combinamos una arquitectura de software moderna con metodologías de desarrollo 
 </div>
  
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats
-
+<div>
+ [![](https://github-readme-stats.vercel.app/api?username=Jd1278&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Jd1278)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Jd1278&theme=material-palenight)](https://github.com/Jd1278)
+</div>
 
 ## Work Team 
 <div> 
