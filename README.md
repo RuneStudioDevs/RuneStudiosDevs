@@ -7,7 +7,7 @@ Combinamos una arquitectura de software moderna con metodologías de desarrollo 
 
 ## Work Team 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 GitHub Profiles</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/Jd1278/Jd1278"> Juan Paredes </a> <br>
@@ -16,3 +16,4 @@ Combinamos una arquitectura de software moderna con metodologías de desarrollo 
 
   </p>
 </details>
+<h2> 🔗 &nbsp;Contact Us</h2>
