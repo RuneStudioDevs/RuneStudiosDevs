@@ -3,10 +3,23 @@
 <div> En Rune Studio ayudamos a pequeñas y medianas empresas a dar el salto digital sin complicaciones. No vendemos páginas web genéricas; diseñamos e implementamos aplicaciones web y móviles robustas enfocadas en automatizar procesos, optimizar ventas y hacer crecer tu negocio.
 
 Combinamos una arquitectura de software moderna con metodologías de desarrollo ágiles para entregar soluciones rápidas, escalables y visualmente impecables. </div>
+
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech Stack </h1>
+
+## 🤖 AI Stats 
+<div>
+ <a href=""><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white"></a> 
+ <a href=""><img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white"></a> 
+ <a href=""><img src="https://img.shields.io/badge/Qwen-6950EF?style=for-the-badge&logo=qwen&logoColor=white"></a> 
+  
+</div>
+ 
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats
 
 ## Work Team 
-<details> 
+<div> 
+  <details> 
   <summary><b>💻 GitHub Profiles</b></summary>
   <br/>
   <p align="center">
@@ -16,6 +29,8 @@ Combinamos una arquitectura de software moderna con metodologías de desarrollo 
 
   </p>
 </details>
+</div>
+
 <h2> 🌐Social Media</h2>
 
 <div> 
