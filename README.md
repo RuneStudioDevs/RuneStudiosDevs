@@ -16,4 +16,26 @@ Combinamos una arquitectura de software moderna con metodologías de desarrollo 
 
   </p>
 </details>
-<h2> 🔗 &nbsp;Contact Us</h2>
+<h2> 🌐Social Media</h2>
+
+<div> 
+  <a href=""><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a> 
+  <a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+
+</div>
+
+<h2> 🔗 &nbsp;Contact Us </h2> 
+
+<div>
+  <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+   <a href=""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+</div>
+
+
+
+
+
+
