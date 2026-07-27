@@ -3,4 +3,4 @@
 <div> En Rune Studio ayudamos a pequeñas y medianas empresas a dar el salto digital sin complicaciones. No vendemos páginas web genéricas; diseñamos e implementamos aplicaciones web y móviles robustas enfocadas en automatizar procesos, optimizar ventas y hacer crecer tu negocio.
 
 Combinamos una arquitectura de software moderna con metodologías de desarrollo ágiles para entregar soluciones rápidas, escalables y visualmente impecables. </div>
-
+##  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats
