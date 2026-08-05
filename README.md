@@ -1,4 +1,5 @@
-<img width="1500" height="500" alt="background_rune" src="https://github.com/user-attachments/assets/692541ea-7af2-45b5-b952-5ac43c865221" />
+<img width="1500" height="500" alt="Aesthetic Twitter Header (1)" src="https://github.com/user-attachments/assets/db42d998-261b-483c-bf2c-d902744cd2bd" />
+
 <h1> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Us </h1>
 <div> En Rune Studio ayudamos a pequeñas y medianas empresas a dar el salto digital sin complicaciones. No vendemos páginas web genéricas; diseñamos e implementamos aplicaciones web y móviles robustas enfocadas en automatizar procesos, optimizar ventas y hacer crecer tu negocio.
 
